@@ -1,0 +1,26 @@
+/* Main SASS File for Roku Application*/
+.hide {
+  display: none; }
+
+.block1 {
+  background-color: #999999; }
+
+.block2 {
+  background-color: #cccccc; }
+
+#headerCon {
+  height: 90px; }
+
+#welcomeCon {
+  height: 400px; }
+
+#profilesCon {
+  height: 500px; }
+
+#eraCon {
+  height: 300px; }
+
+#footerCon {
+  height: 90px; }
+
+/*# sourceMappingURL=global.css.map */
